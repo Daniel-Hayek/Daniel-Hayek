@@ -10,7 +10,10 @@
 <h1 align="center">
 My name is Daniel Hayek
 </h1>
-  
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=800&color=F73636&center=true&vCenter=true&width=435&lines=Do+not+pray+for+easy+lives;Pray+to+be+stronger+men;Keep+moving+forward)](https://git.io/typing-svg" />
+</p>  
 
 <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzdxbnI4bXEyaHJ2ajFhbXM4Mmw2bjNjaXNsZHR6amVrZnZ3bWhheSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0MYMhJnSkFzCtnX2/giphy.gif" />
