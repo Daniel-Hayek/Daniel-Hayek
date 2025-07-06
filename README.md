@@ -59,3 +59,12 @@ I graduated from university with a degree in CompSci, but then switched fields f
 <a href="http://www.github.com/DannyHayek"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DannyHayek&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/DannyHayek" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DannyHayek&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+
+<h1 align="center">
+Thank You For Reading! 😎
+</h1>
+
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjY5dnAyY3U5Z2d5YWJlNW53amRrcDAyeDM0dmtvdWticGw5MjdsNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lD76yTC5zxZPG/giphy.gif" />
+</p>
