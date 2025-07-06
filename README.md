@@ -1,11 +1,11 @@
-## Hi there 👋
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Daniel Hayek
 ====================================================================================================================================
 
 Software Engineer
 -----------------
 
-https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzdxbnI4bXEyaHJ2ajFhbXM4Mmw2bjNjaXNsZHR6amVrZnZ3bWhheSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0MYMhJnSkFzCtnX2/giphy.gif
+![hippo](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzdxbnI4bXEyaHJ2ajFhbXM4Mmw2bjNjaXNsZHR6amVrZnZ3bWhheSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0MYMhJnSkFzCtnX2/giphy.gif)
 
 
 I graduated from university with a degree in CompSci, but then switched fields for a while. Now I'm back with a vengeance. I have my eyes set on fully reintegrating into the software development and engineering world, with full-stack projects that explore the depth and breadth of creating clean code and architecture.
