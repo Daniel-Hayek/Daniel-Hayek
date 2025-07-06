@@ -12,7 +12,7 @@ My name is Daniel Hayek
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=800&color=F73636&center=true&vCenter=true&width=435&lines=Do+not+pray+for+easy+lives;Pray+to+be+stronger+men;Keep+moving+forward)](https://git.io/typing-svg" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=800&color=F73636&center=true&vCenter=true&width=435&lines=Do+not+pray+for+easy+lives;Pray+to+be+stronger+men;Keep+moving+forward" />
 </p>  
 
 <p align="center">
