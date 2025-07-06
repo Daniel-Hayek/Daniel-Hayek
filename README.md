@@ -16,7 +16,9 @@ My name is Daniel Hayek
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzdxbnI4bXEyaHJ2ajFhbXM4Mmw2bjNjaXNsZHR6amVrZnZ3bWhheSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0MYMhJnSkFzCtnX2/giphy.gif" />
 </p>
 
-Software Engineer ⌨ and Professional Nerd 🤓 
+Software Engineer ⌨ and High-Tier Nerd 🤓 and Professional Athlete 🏐
+<br><br>
+(I play volleyball, but I like James Harden 🏀 🧔)
 -----------------
 
 I graduated from university with a degree in CompSci, but then switched fields for a while. Now I'm back with a vengeance. I have my eyes set on fully reintegrating into the software development and engineering world, with full-stack projects that explore the depth and breadth of creating clean code and architecture.
@@ -25,7 +27,20 @@ I graduated from university with a degree in CompSci, but then switched fields f
 * ✉️  You can contact me at [dhayek92@gmail.com](mailto:dhayek92@gmail.com) 👥
 * 🧠  I'm learning Laravel and React 🗒
 * 🤝  I'm open to collaborating on any projects! 💯
-* ⚡  I quite enjoy voice acting on the side... perhaps as a second career :D 🎙
+
+<div>
+
+```
+Pssst... Some more info about me...
+
+I'm a massive nerd, so of course, I have nerd activites I engage in:
+
+- An inordinate amount of time gaming 🎮
+- Creating worlds as a Dungeon Master 🧙‍♂️
+- Working on becoming a voice actor 🎙
+
+```
+</div>
 
 ### Skills - The Things I'm Pretty Good At! 🫡
 
