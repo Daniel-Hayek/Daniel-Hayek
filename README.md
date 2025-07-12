@@ -19,7 +19,7 @@ My name is Daniel Hayek
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzdxbnI4bXEyaHJ2ajFhbXM4Mmw2bjNjaXNsZHR6amVrZnZ3bWhheSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0MYMhJnSkFzCtnX2/giphy.gif" />
 </p>
 
-Software Engineer ⌨ and High-Tier Nerd 🤓 and Professional Athlete 🏐
+Software Engineer ⌨, High-Tier Nerd 🤓 and Professional Athlete 🏐
 <br><br>
 (I play volleyball, but I like James Harden 🏀 🧔)
 -----------------
