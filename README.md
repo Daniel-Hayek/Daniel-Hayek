@@ -28,7 +28,7 @@ I graduated from university with a degree in CompSci, but then switched fields f
 
 * 🌍  I'm based in Lebanon 🇱🇧
 * ✉️  You can contact me at [dhayek92@gmail.com](mailto:dhayek92@gmail.com) 👥
-* 🧠  I'm learning Laravel and React 🗒
+* 🧠  I'm learning Flutter and NestJS 🗒
 * 🤝  I'm open to collaborating on any projects! 💯
 
 <div>
